@@ -1,8 +1,6 @@
 '	MAINTENANCE SYSTEM
 
-'	Copyright (c) 2015 Rameez Rafeeq. All rights reserved
-
-'	Unauthorized reproduction is prohibited. If caught doing do, will be prosecuted
+'	Created by Trevor Xander
 
 Imports System.IO
 
