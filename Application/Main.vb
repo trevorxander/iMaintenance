@@ -469,7 +469,7 @@ Public Class Main
         New StreamReader((Application.StartupPath.ToLower _
             .Replace("\bin\debug", "") _
             .Replace("\bin\release", "")) _
-             + "\theme.txt")
+             + "\Resources\Images\theme.txt")
 
         Dim themeNumber As Short
         themeNumber = CShort(StreamReader.ReadLine)
@@ -489,7 +489,7 @@ Public Class Main
         New StreamWriter((Application.StartupPath.ToLower _
             .Replace("\bin\debug", "") _
             .Replace("\bin\release", "")) _
-             + "\theme.txt")
+             + "\Resources\Images\theme.txt")
 
         StreamWriter.WriteLine(themeNumber)
         StreamWriter.Close()
