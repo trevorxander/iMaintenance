@@ -1,4 +1,7 @@
 # iMaintenance
+
+Software project designed to automate recording, storing and manipulating maintenance logs on a Windows file server. Features include a multi-user login system and administrative capabilities.
+
 ## Problem Definition
 ### The Previous System
 The present system for maintenance involves keeping multiple hand written ledgers, when information is needed to be accessed for various purposes. A manual look up is in order frequently, to be reminded of periodic future maintenance. Receipts for these maintenance are filed in separately, identifiable by reference code noted down on the ledger.
